@@ -83,10 +83,12 @@ Output:
 📂 Project Structure
 📁 project/
 │
+
 ├── 📁 netflix_recommender/
 │   ├── recommender.py
 │   └── netflix_titles.csv
 │
+
 ├── 📁 phishing_detector/
 │   ├── feature_extractor.py
 │   ├── model_training.ipynb
